@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilia M Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "anychart": "^8.11.0",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1"
+  }
+}
